@@ -1,6 +1,12 @@
 ---
 label: test
 hide_body: true
-fields: []
+fields:
+- name: meta-description
+  type: text
+  config:
+    required: false
+  label: Meta-Description
+  description: Post meta description
 pages:
 - content/test.md
