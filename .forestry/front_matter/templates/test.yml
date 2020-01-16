@@ -19,4 +19,5 @@ fields:
   label: Content
   description: Main Content
 pages:
+- content/blogs/sucks.md
 - content/test.md
