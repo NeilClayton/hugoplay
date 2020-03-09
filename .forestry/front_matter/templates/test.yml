@@ -18,6 +18,16 @@ fields:
       format: markdown
   label: Content
   description: Main Content
+- name: cxvc
+  type: number
+  label: cxvc
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/blogs/sucks.md
 - content/test.md
